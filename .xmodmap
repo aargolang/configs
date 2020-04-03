@@ -1,0 +1,8 @@
+! CAPS LOCK AS MODE_SWITCH
+keycode 66 = Mode_switch
+
+! ! ARROWS - VIM STYLE (uncomment to use)
+keysym h = h H Left
+keysym j = j J Down
+keysym k = k K Up
+keysym l = l L Right 
